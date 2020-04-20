@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SampleProject</string>
-    <string name="menu_1">Button</string>
+    <string name="button_1">Default Button</string>
+    <string name="text_button_sample">Button Sample</string>
+    <string name="button_4">Custom Button</string>
+    <string name="button_3">Outline Button</string>
+    <string name="button_2">Text Button</string>
 </resources>
